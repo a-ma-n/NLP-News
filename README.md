@@ -1,6 +1,6 @@
 # NLP_News
 
-<a href=""><img src="https://naadispeaks.files.wordpress.com/2016/09/news.jpg?w=630" alt="Frame-1" border="3" width = "1000"></a>
+<a href="https://colab.research.google.com/drive/1UBGzk9lPnCWqNHbloaeRO0Ndxe6zB6ZX?usp=sharing"><img src="https://naadispeaks.files.wordpress.com/2016/09/news.jpg?w=630" alt="Frame-1" border="3" width = "1000"></a>
 
 * Here we will be performing news category classificaion
 * We will be calssifying the dataset into 20 categories
